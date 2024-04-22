@@ -1,0 +1,26 @@
+* 4162f06 Agregando 2 párroafos
+*   bc84927 Agregando estaciones del año con fecha de inicio
+|\  
+| | * ef8711e Merge branch 'main' of https://github.com/icalexm/yutube
+| |/| 
+|/|/  
+| * 52046be Agregando las estaciones del año
+* | 3aa3a74 Agregando estaciones del año con fechade inicio
+|/  
+*   4e10d95 Resolviendo conflicto mege main/html en el documento index.html
+|\  
+| * ebdc316 Agregando indexjs al indtex.html
+* | b572b92 Agregando style.ss al indtex.html
+* |   8636cc4 Merge branch 'js'
+|\ \  
+| * | c57a502 Creando index.js
+* | | 3946510 Creando style.css
+| |/  
+|/|   
+* | a876409 Creando index.html
+|/  
+* 22e8c7f Ignorar archivos .exe
+* 317568d Create LICENSE
+* 7b0710a Agregando mas contenido al README
+* abcb64f Agregando contenido incial al README
+* 642ada3 Primer commit

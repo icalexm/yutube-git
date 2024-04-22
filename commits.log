@@ -1,0 +1,98 @@
+commit 4162f0638e039fab606345c42310ca960519b88c
+Author: Alex Mas <icalexm@gmail.com>
+Date:   Mon Apr 22 15:29:42 2024 +0200
+
+    Agregando 2 párroafos
+
+commit bc849272199e6aa47dee67dbcc353072f13f3e4e
+Merge: 3aa3a74 52046be
+Author: Alex Mas <icalexm@gmail.com>
+Date:   Mon Apr 22 15:22:15 2024 +0200
+
+    Agregando estaciones del año con fecha de inicio
+
+commit 3aa3a748ab3eaf976306e4fc4a153c4cd6602f3d
+Author: Alex Mas <icalexm@gmail.com>
+Date:   Mon Apr 22 13:03:58 2024 +0200
+
+    Agregando estaciones del año con fechade inicio
+
+commit 52046be366fedeb7a0a9ae93b4fa6a533fdddf9b
+Author: Alex Mas <icalexm@gmail.com>
+Date:   Mon Apr 22 13:03:58 2024 +0200
+
+    Agregando las estaciones del año
+
+commit 4e10d957ef7d95acf5084f0975ef019695951ced
+Merge: b572b92 ebdc316
+Author: Alex Mas <icalexm@gmail.com>
+Date:   Mon Apr 22 12:57:39 2024 +0200
+
+    Resolviendo conflicto mege main/html en el documento index.html
+
+commit ebdc316d26f9c3f865bf9a9d5020492f447905fe
+Author: Alex Mas <icalexm@gmail.com>
+Date:   Mon Apr 22 12:44:33 2024 +0200
+
+    Agregando indexjs al indtex.html
+
+commit b572b9298e3be938d8fe627e64739d2fe52c6b23
+Author: Alex Mas <icalexm@gmail.com>
+Date:   Mon Apr 22 12:40:48 2024 +0200
+
+    Agregando style.ss al indtex.html
+
+commit 8636cc4720e7d5aef56b13d74d1a8e975a360841
+Merge: 3946510 c57a502
+Author: Alex Mas <icalexm@gmail.com>
+Date:   Mon Apr 22 11:58:41 2024 +0200
+
+    Merge branch 'js'
+
+commit c57a502dc9b8dae6a6900f8fc73c4ba5cfac7461
+Author: Alex Mas <icalexm@gmail.com>
+Date:   Fri Apr 19 12:40:27 2024 +0200
+
+    Creando index.js
+
+commit 3946510c318541e37bce5e11d091a0156713ef76
+Author: Alex Mas <icalexm@gmail.com>
+Date:   Fri Apr 19 12:32:55 2024 +0200
+
+    Creando style.css
+
+commit a876409158cc1e0d43da61db124e543b3d597578
+Author: Alex Mas <icalexm@gmail.com>
+Date:   Fri Apr 19 12:19:12 2024 +0200
+
+    Creando index.html
+
+commit 22e8c7f64860b18a68829d8cc19270282fff2af6
+Author: Alex Mas <icalexm@gmail.com>
+Date:   Fri Apr 19 11:05:48 2024 +0200
+
+    Ignorar archivos .exe
+
+commit 317568d0d310f983dfd976f0ae7803d9b4523e90
+Author: icalexm <166802683+icalexm@users.noreply.github.com>
+Date:   Thu Apr 18 12:37:35 2024 +0200
+
+    Create LICENSE
+
+commit 7b0710a9d9af3f2e084180fbfdc7a972a9ef4b7e
+Author: Alex Mas <icalexm@gmail.com>
+Date:   Thu Apr 18 12:26:55 2024 +0200
+
+    Agregando mas contenido al README
+
+commit abcb64f94488c3f0bd9f72add7fdeaaedac0d5eb
+Author: Alex Mas <icalexm@gmail.com>
+Date:   Thu Apr 18 11:39:14 2024 +0200
+
+    Agregando contenido incial al README
+
+commit 642ada3a66ffbfb74b0d07152442c81209c22481
+Author: Alex Mas <icalexm@gmail.com>
+Date:   Thu Apr 18 11:31:53 2024 +0200
+
+    Primer commit
