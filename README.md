@@ -2,6 +2,6 @@
 
 Esto es la 1ra pruba
 
-Agregando mas contenido al README
+Agregando más contenido al README
 
 Este commit es para oficializar nuestra versión **1.0.0**.
